@@ -8,10 +8,16 @@ I am a 21-year-old Italian CSE student with a lifelong passion for technology. I
 
 ### Technical Toolkit
 
-* **Core Logic:** `C++` (Studying C++ OOP and improving my coding skills ) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* **Core Logic:** `C++` (Studying C++ OOP and improving my coding skills ) 
 * **Data Management:** `SQL` (Currently studying relational databases and optimization)
 * **Legacy/Scripting:** `Python` (First approached 7 years ago, currently revisiting Python to expand my knowledge of programming languages and scripts )
 * **Security:** Deeply interested in **Online Security** and secure coding practices.
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
