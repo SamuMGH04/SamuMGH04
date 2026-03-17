@@ -25,7 +25,7 @@ I am a 21-year-old Italian CSE student with a lifelong passion for technology. I
 * **Learning:** Mastering multiple programming languages and exploring the inner workings of modern technology.
 * **Background:** Coding since 2024 ; wrote my first lines of Python nearly 7 years ago.
 * **Goal:** To develop high-performance applications and contribute to Open Source material, such as my university notes ( available in italian ) that i will put here on GitHub and much more.
-* **Operating Systems:** Proficient in Windows and macOS; experienced with Linux ( such as Pop!_OS, Mint, Ubuntu, ) and currently exploring Arch
+* **Operating Systems:** Proficient in Windows and macOS; experienced with Linux ( such as Pop!_OS, Mint, Ubuntu ) and currently exploring Arch
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
