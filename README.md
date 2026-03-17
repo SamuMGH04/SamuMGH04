@@ -16,9 +16,7 @@ I am a 21-year-old Italian CSE student with a lifelong passion for technology. I
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 
 ---
 
@@ -27,6 +25,10 @@ I am a 21-year-old Italian CSE student with a lifelong passion for technology. I
 * **Learning:** Mastering multiple programming languages and exploring the inner workings of modern technology.
 * **Background:** Coding since 2024 ; wrote my first lines of Python nearly 7 years ago.
 * **Goal:** To develop high-performance applications and contribute to Open Source material, such as my university notes ( available in italian ) that i will put here on GitHub and much more.
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
