@@ -11,11 +11,13 @@ I am a 21-year-old Italian CSE student with a lifelong passion for technology. I
 * **Core Logic:** `C++` (Studying C++ OOP and improving my coding skills ) 
 * **Data Management:** `SQL` (Currently studying relational databases and optimization)
 * **Legacy/Scripting:** `Python` (First approached 7 years ago, currently revisiting Python to expand my knowledge of programming languages and scripts )
+* **Low- Level & Hardware** `Assembly` ( Studying Assembly Language to understand what is inside CPU and memory )
 * **Security:** Deeply interested in **Online Security** and secure coding practices.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-00599C?style=flat&logo=assembly&logoColor=white)
 
 
 ---
