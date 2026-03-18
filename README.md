@@ -17,9 +17,7 @@ I am a 21-year-old Italian CSE student with a lifelong passion for technology. I
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-00599C?style=flat&logo=assembly&logoColor=white)
-
-
+![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white)
 ---
 
 ### My Journey
