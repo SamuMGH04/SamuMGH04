@@ -6,7 +6,7 @@ I am a 21-year-old Italian CSE student with a lifelong passion for technology. I
 
 ---
 
-### Technical Toolkit
+### 🧰 Technical Toolkit
 
 * **Core Logic:** `C++` (Studying C++ OOP and improving my coding skills ) 
 * **Data Management:** `SQL` (Currently studying relational databases and optimization)
@@ -20,7 +20,7 @@ I am a 21-year-old Italian CSE student with a lifelong passion for technology. I
 ![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white)
 ---
 
-### My Journey
+### 📈 My Journey
 * **Currently focusing on:** Advanced C++ data structures and SQL query optimization. Focusing also on device repairs to become repair technician
 * **Learning:** Mastering multiple programming languages and exploring the inner workings of modern technology.
 * **Background:** Coding since 2024 ; wrote my first lines of Python nearly 7 years ago.
@@ -34,12 +34,12 @@ I am a 21-year-old Italian CSE student with a lifelong passion for technology. I
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557DB5?style=for-the-badge&logo=kali-linux&logoColor=white)
 ---
 
-### Why Work With Me?
+### 🤝 Why Work With Me?
 > "I am a perfectionist who believes that code should not only work but be elegant and secure. I thrive on constructive feedback and am always looking for the next challenge to grow professionally."
 
 ---
 
-### Contact
-**GitHub:** Feel free to open an **Issue** or a **Discussion** in my repositories for any inquiries or collaborations. I am always open to professional feedback!
+### 🌐 Contact
+**GitHub:** [SamuMGH04] ( https://github.com/SamuMGH04
 ---
 *“Perfection is not attainable, but if we chase perfection we can catch excellence.”*
