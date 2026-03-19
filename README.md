@@ -40,6 +40,6 @@ I am a 21-year-old Italian CSE student with a lifelong passion for technology. I
 ---
 
 ### 🌐 Contact
-**GitHub:** [SamuMGH04] ( https://github.com/SamuMGH04
+**GitHub:** SamuMGH04 ( https://github.com/SamuMGH04 )
 ---
 *“Perfection is not attainable, but if we chase perfection we can catch excellence.”*
